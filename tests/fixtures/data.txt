@@ -1,0 +1,45 @@
+# Fake and Temp Mail Providers
+# https://github.com/7c/fakefilter
+# Last Update: 2023-05-01T00:13:58.599Z
+
+
+## trashmail.ws
+freeinbox.cyou
+trashmail.ws
+
+## disposablemail.com
+donebyngle.com
+doojazz.com
+dollstore.org
+dropsin.net
+doitups.com
+ilydeen.org
+dissloo.com
+whoisox.com
+fillallin.com
+
+## guerrillamail.com
+spam4.me
+pokemail.net
+guerrillamailblock.com
+guerrillamail.org
+guerrillamail.net
+guerrillamail.de
+guerrillamail.com
+guerrillamail.biz
+grr.la
+guerrillamail.info
+sharklasers.com
+
+## disposeamail.com
+disposeamail.com
+
+## oxyemail.com
+oxyemail.com
+
+## mytrashmailer.com
+mytrashmailer.com
+
+## fakemail.io
+randomail.io
+fakemail.io

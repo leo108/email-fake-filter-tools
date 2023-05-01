@@ -1,0 +1,11 @@
+{
+    "9c.json": "{\"dropsin.net\":{\"providers\":[\"disposablemail.com\"],\"hosts\":{\"dropsin.net\":{\"firstseen\":1670890000,\"lastseen\":1674030000}}}}",
+    "94.json": "{\"freeinbox.cyou\":{\"providers\":[\"trashmail.ws\"],\"hosts\":{\"freeinbox.cyou\":{\"firstseen\":1646260000,\"lastseen\":1682900000}}}}",
+    "9b.json": "{\"dissloo.com\":{\"providers\":[\"disposablemail.com\"],\"hosts\":{\"dissloo.com\":{\"firstseen\":1656460000,\"lastseen\":1661850000}}}}",
+    "e8.json": "{\"dollstore.org\":{\"providers\":[\"disposablemail.com\"],\"hosts\":{\"dollstore.org\":{\"firstseen\":1674080000,\"lastseen\":1679980000}}}}",
+    "92.json": "{\"trashmail.ws\":{\"providers\":[\"trashmail.ws\"],\"hosts\":{\"trashmail.ws\":{\"firstseen\":1646260000,\"lastseen\":1682900000}}}}",
+    "c4.json": "{\"doitups.com\":{\"providers\":[\"disposablemail.com\"],\"hosts\":{\"doitups.com\":{\"firstseen\":1665620000,\"lastseen\":1670870000}}}}",
+    "a8.json": "{\"donebyngle.com\":{\"providers\":[\"disposablemail.com\"],\"hosts\":{\"donebyngle.com\":{\"firstseen\":1682550000,\"lastseen\":1682900000}}}}",
+    "24.json": "{\"whoisox.com\":{\"providers\":[\"disposablemail.com\"],\"hosts\":{\"whoisox.com\":{\"firstseen\":1649110000,\"lastseen\":1656430000}}}}",
+    "4d.json": "{\"doojazz.com\":{\"providers\":[\"disposablemail.com\"],\"hosts\":{\"doojazz.com\":{\"firstseen\":1680050000,\"lastseen\":1682540000}}},\"ilydeen.org\":{\"providers\":[\"disposablemail.com\"],\"hosts\":{\"ilydeen.org\":{\"firstseen\":1661900000,\"lastseen\":1665580000}}}}"
+}
